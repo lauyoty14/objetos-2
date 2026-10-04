@@ -1,0 +1,6 @@
+ar/edu/unq/po2/bancos/CreditoPersonal.class
+ar/edu/unq/po2/bancos/CreditoHipotecario.class
+ar/edu/unq/po2/bancos/PropiedadInmobiliaria.class
+ar/edu/unq/po2/bancos/Cliente.class
+ar/edu/unq/po2/bancos/Banco.class
+ar/edu/unq/po2/bancos/SolicitudCredito.class
